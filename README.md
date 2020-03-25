@@ -10,8 +10,8 @@ Custom AutoTextField GoogleMap For Swift
 
 <div style="padding: 20px">
 
-<img src="AutoTextFiledDemoGoogle/Images/location.png" width="200px" height="300px">
-<img src="AutoTextFiledDemoGoogle/Images/map.png"  width="200px" height="300px">
+<img src="AutoTextFiledDemoGoogle/Images/location.png" width="190px" height="350px">
+<img src="AutoTextFiledDemoGoogle/Images/map.png"  width="190px" height="350px">
 
 </div>
 
